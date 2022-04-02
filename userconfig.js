@@ -24,21 +24,21 @@ const CONFIG = new Config({
       name: 'boards',
       background_url: 'src/img/banners/bg-1.gif',
       categories: [{
-        name: 'fun',
+        name: 'Anime/Manga',
         links: [
           {
-            url: 'https://4chan.org/wsg/',
-            name: '/wsg/'
+            url: 'https://9anime.to/',
+            name: '9anime'
           },
           {
-            name: '/out/',
-            url: 'https://4chan.org/out',
+            name: 'Rent a Girlfriend',
+            url: 'https://kanojo-okarishimasu.com/',
             icon: 'leaf',
             icon_color: '#64876d'
           },
           {
-            name: '/lit/',
-            url: 'https://4chan.org/lit/',
+            name: 'Nagatoro-San/',
+            url: 'https://nagatoromanga.com/',
             icon: 'book'
           },
           {
@@ -48,13 +48,13 @@ const CONFIG = new Config({
             icon_color: '#8b647b'
           },
           {
-            name: '/p/',
-            url: 'https://4chan.org/p/',
+            name: 'Demon Slayer',
+            url: 'https://www.readdemonslayerarc.com/',
             icon: 'camera'
           },
           {
-            name: '/a/',
-            url: 'https://4chan.org/a/'
+            name: 'My Dress Up Darling',
+            url: 'https://dressupdarling.online/'
           }
         ]
       },
