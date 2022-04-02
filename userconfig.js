@@ -21,7 +21,7 @@ const CONFIG = new Config({
   disabled: [],
   tabs: [
     {
-      name: 'boards',
+      name: 'Anime',
       background_url: 'src/img/banners/bg-1.gif',
       categories: [{
         name: 'Anime/Manga',
