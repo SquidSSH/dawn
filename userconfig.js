@@ -11,7 +11,7 @@ const CONFIG = new Config({
   clock: 'h:i p',
   search: {
     engines: {
-      g: ['https://google.com/search?q=', 'Google'],
+      g: ['https://searx.be/search', 'Google'],
       i: ['https://ixquick.com/do/search?q=', 'Ixquick'],
       d: ['https://duckduckgo.com/html?q=', 'DuckDuckGo'],
       y: ['https://youtube.com/results?search_query=', 'Youtube'],
